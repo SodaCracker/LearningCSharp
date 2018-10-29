@@ -1,0 +1,7 @@
+C:\Users\geniu\source\repos\Day1\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\geniu\source\repos\Day1\Assignment\bin\Debug\Assignment.exe
+C:\Users\geniu\source\repos\Day1\Assignment\bin\Debug\Assignment.pdb
+C:\Users\geniu\source\repos\Day1\Assignment\obj\Debug\Assignment.csprojAssemblyReference.cache
+C:\Users\geniu\source\repos\Day1\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\geniu\source\repos\Day1\Assignment\obj\Debug\Assignment.exe
+C:\Users\geniu\source\repos\Day1\Assignment\obj\Debug\Assignment.pdb
