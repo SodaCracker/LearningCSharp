@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day3\Bit\bin\Debug\Bit.exe.config
+C:\Users\Administrator\source\repos\Day3\Bit\bin\Debug\Bit.exe
+C:\Users\Administrator\source\repos\Day3\Bit\bin\Debug\Bit.pdb
+C:\Users\Administrator\source\repos\Day3\Bit\obj\Debug\Bit.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day3\Bit\obj\Debug\Bit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day3\Bit\obj\Debug\Bit.exe
+C:\Users\Administrator\source\repos\Day3\Bit\obj\Debug\Bit.pdb

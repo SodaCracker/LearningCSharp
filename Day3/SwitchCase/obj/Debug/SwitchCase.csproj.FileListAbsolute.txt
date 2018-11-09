@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day3\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Administrator\source\repos\Day3\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Administrator\source\repos\Day3\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Administrator\source\repos\Day3\SwitchCase\obj\Debug\SwitchCase.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day3\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day3\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Administrator\source\repos\Day3\SwitchCase\obj\Debug\SwitchCase.pdb
