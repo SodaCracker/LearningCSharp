@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day9\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Administrator\source\repos\Day9\Assignment\bin\Debug\Assignment.exe
+C:\Users\Administrator\source\repos\Day9\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Administrator\source\repos\Day9\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day9\Assignment\obj\Debug\Assignment.exe
+C:\Users\Administrator\source\repos\Day9\Assignment\obj\Debug\Assignment.pdb
