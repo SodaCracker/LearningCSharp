@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day5\DeadLoop\bin\Debug\DeadLoop.exe.config
+C:\Users\Administrator\source\repos\Day5\DeadLoop\bin\Debug\DeadLoop.exe
+C:\Users\Administrator\source\repos\Day5\DeadLoop\bin\Debug\DeadLoop.pdb
+C:\Users\Administrator\source\repos\Day5\DeadLoop\obj\Debug\DeadLoop.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day5\DeadLoop\obj\Debug\DeadLoop.exe
+C:\Users\Administrator\source\repos\Day5\DeadLoop\obj\Debug\DeadLoop.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day5\ForInFor\bin\Debug\ForInFor.exe.config
+C:\Users\Administrator\source\repos\Day5\ForInFor\bin\Debug\ForInFor.exe
+C:\Users\Administrator\source\repos\Day5\ForInFor\bin\Debug\ForInFor.pdb
+C:\Users\Administrator\source\repos\Day5\ForInFor\obj\Debug\ForInFor.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day5\ForInFor\obj\Debug\ForInFor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day5\ForInFor\obj\Debug\ForInFor.exe
+C:\Users\Administrator\source\repos\Day5\ForInFor\obj\Debug\ForInFor.pdb

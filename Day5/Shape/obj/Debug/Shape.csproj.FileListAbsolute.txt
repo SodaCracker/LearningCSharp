@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day5\Shape\bin\Debug\Shape.exe.config
+C:\Users\Administrator\source\repos\Day5\Shape\bin\Debug\Shape.exe
+C:\Users\Administrator\source\repos\Day5\Shape\bin\Debug\Shape.pdb
+C:\Users\Administrator\source\repos\Day5\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day5\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day5\Shape\obj\Debug\Shape.exe
+C:\Users\Administrator\source\repos\Day5\Shape\obj\Debug\Shape.pdb
