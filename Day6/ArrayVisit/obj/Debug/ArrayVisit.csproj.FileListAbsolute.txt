@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\bin\Debug\ArrayVisit.exe.config
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\bin\Debug\ArrayVisit.exe
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\bin\Debug\ArrayVisit.pdb
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\obj\Debug\ArrayVisit.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\obj\Debug\ArrayVisit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\obj\Debug\ArrayVisit.exe
+C:\Users\Administrator\source\repos\Day6\ArrayVisit\obj\Debug\ArrayVisit.pdb

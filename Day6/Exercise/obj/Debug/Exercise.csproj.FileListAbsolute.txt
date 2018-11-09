@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day6\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Administrator\source\repos\Day6\Exercise\bin\Debug\Exercise.exe
+C:\Users\Administrator\source\repos\Day6\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Administrator\source\repos\Day6\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day6\Exercise\obj\Debug\Exercise.exe
+C:\Users\Administrator\source\repos\Day6\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Administrator\source\repos\Day6\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
