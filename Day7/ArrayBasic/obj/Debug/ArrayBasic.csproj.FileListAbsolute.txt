@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\bin\Debug\ArrayBasic.exe.config
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\bin\Debug\ArrayBasic.exe
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\bin\Debug\ArrayBasic.pdb
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\obj\Debug\ArrayBasic.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\obj\Debug\ArrayBasic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\obj\Debug\ArrayBasic.exe
+C:\Users\Administrator\source\repos\Day7\ArrayBasic\obj\Debug\ArrayBasic.pdb

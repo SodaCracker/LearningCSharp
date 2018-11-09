@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day7\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\Administrator\source\repos\Day7\Homework3\bin\Debug\Homework3.exe
+C:\Users\Administrator\source\repos\Day7\Homework3\bin\Debug\Homework3.pdb
+C:\Users\Administrator\source\repos\Day7\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day7\Homework3\obj\Debug\Homework3.exe
+C:\Users\Administrator\source\repos\Day7\Homework3\obj\Debug\Homework3.pdb
