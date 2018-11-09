@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day4\EasyFor\bin\Debug\EasyFor.exe.config
+C:\Users\Administrator\source\repos\Day4\EasyFor\bin\Debug\EasyFor.exe
+C:\Users\Administrator\source\repos\Day4\EasyFor\bin\Debug\EasyFor.pdb
+C:\Users\Administrator\source\repos\Day4\EasyFor\obj\Debug\EasyFor.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day4\EasyFor\obj\Debug\EasyFor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day4\EasyFor\obj\Debug\EasyFor.exe
+C:\Users\Administrator\source\repos\Day4\EasyFor\obj\Debug\EasyFor.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day4\LifeCycle\bin\Debug\LifeCycle.exe.config
+C:\Users\Administrator\source\repos\Day4\LifeCycle\bin\Debug\LifeCycle.exe
+C:\Users\Administrator\source\repos\Day4\LifeCycle\bin\Debug\LifeCycle.pdb
+C:\Users\Administrator\source\repos\Day4\LifeCycle\obj\Debug\LifeCycle.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day4\LifeCycle\obj\Debug\LifeCycle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day4\LifeCycle\obj\Debug\LifeCycle.exe
+C:\Users\Administrator\source\repos\Day4\LifeCycle\obj\Debug\LifeCycle.pdb
