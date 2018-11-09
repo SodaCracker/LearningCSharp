@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day8\Array2Create\bin\Debug\Array2Create.exe.config
+C:\Users\Administrator\source\repos\Day8\Array2Create\bin\Debug\Array2Create.exe
+C:\Users\Administrator\source\repos\Day8\Array2Create\bin\Debug\Array2Create.pdb
+C:\Users\Administrator\source\repos\Day8\Array2Create\obj\Debug\Array2Create.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day8\Array2Create\obj\Debug\Array2Create.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day8\Array2Create\obj\Debug\Array2Create.exe
+C:\Users\Administrator\source\repos\Day8\Array2Create\obj\Debug\Array2Create.pdb
