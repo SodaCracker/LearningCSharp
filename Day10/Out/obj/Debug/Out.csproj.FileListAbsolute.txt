@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day10\Out\bin\Debug\Out.exe.config
+C:\Users\Administrator\source\repos\Day10\Out\bin\Debug\Out.exe
+C:\Users\Administrator\source\repos\Day10\Out\bin\Debug\Out.pdb
+C:\Users\Administrator\source\repos\Day10\Out\obj\Debug\Out.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day10\Out\obj\Debug\Out.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day10\Out\obj\Debug\Out.exe
+C:\Users\Administrator\source\repos\Day10\Out\obj\Debug\Out.pdb

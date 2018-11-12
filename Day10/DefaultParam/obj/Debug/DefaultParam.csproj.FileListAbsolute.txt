@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day10\DefaultParam\bin\Debug\DefaultParam.exe.config
+C:\Users\Administrator\source\repos\Day10\DefaultParam\bin\Debug\DefaultParam.exe
+C:\Users\Administrator\source\repos\Day10\DefaultParam\bin\Debug\DefaultParam.pdb
+C:\Users\Administrator\source\repos\Day10\DefaultParam\obj\Debug\DefaultParam.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day10\DefaultParam\obj\Debug\DefaultParam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day10\DefaultParam\obj\Debug\DefaultParam.exe
+C:\Users\Administrator\source\repos\Day10\DefaultParam\obj\Debug\DefaultParam.pdb

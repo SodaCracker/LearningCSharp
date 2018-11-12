@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day10\Invoke\bin\Debug\Invoke.exe.config
+C:\Users\Administrator\source\repos\Day10\Invoke\bin\Debug\Invoke.exe
+C:\Users\Administrator\source\repos\Day10\Invoke\bin\Debug\Invoke.pdb
+C:\Users\Administrator\source\repos\Day10\Invoke\obj\Debug\Invoke.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day10\Invoke\obj\Debug\Invoke.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day10\Invoke\obj\Debug\Invoke.exe
+C:\Users\Administrator\source\repos\Day10\Invoke\obj\Debug\Invoke.pdb
