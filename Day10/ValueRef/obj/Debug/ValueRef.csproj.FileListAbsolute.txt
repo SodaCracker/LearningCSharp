@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day10\ValueRef\bin\Debug\ValueRef.exe.config
+C:\Users\Administrator\source\repos\Day10\ValueRef\bin\Debug\ValueRef.exe
+C:\Users\Administrator\source\repos\Day10\ValueRef\bin\Debug\ValueRef.pdb
+C:\Users\Administrator\source\repos\Day10\ValueRef\obj\Debug\ValueRef.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day10\ValueRef\obj\Debug\ValueRef.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day10\ValueRef\obj\Debug\ValueRef.exe
+C:\Users\Administrator\source\repos\Day10\ValueRef\obj\Debug\ValueRef.pdb

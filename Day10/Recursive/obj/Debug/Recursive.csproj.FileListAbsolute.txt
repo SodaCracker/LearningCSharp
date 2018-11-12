@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day10\Recursive\bin\Debug\Recursive.exe.config
+C:\Users\Administrator\source\repos\Day10\Recursive\bin\Debug\Recursive.exe
+C:\Users\Administrator\source\repos\Day10\Recursive\bin\Debug\Recursive.pdb
+C:\Users\Administrator\source\repos\Day10\Recursive\obj\Debug\Recursive.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day10\Recursive\obj\Debug\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day10\Recursive\obj\Debug\Recursive.exe
+C:\Users\Administrator\source\repos\Day10\Recursive\obj\Debug\Recursive.pdb
