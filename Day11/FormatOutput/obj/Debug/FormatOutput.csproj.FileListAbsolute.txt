@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day11\FormatOutput\bin\Debug\FormatOutput.exe.config
+C:\Users\Administrator\source\repos\Day11\FormatOutput\bin\Debug\FormatOutput.exe
+C:\Users\Administrator\source\repos\Day11\FormatOutput\bin\Debug\FormatOutput.pdb
+C:\Users\Administrator\source\repos\Day11\FormatOutput\obj\Debug\FormatOutput.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day11\FormatOutput\obj\Debug\FormatOutput.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day11\FormatOutput\obj\Debug\FormatOutput.exe
+C:\Users\Administrator\source\repos\Day11\FormatOutput\obj\Debug\FormatOutput.pdb

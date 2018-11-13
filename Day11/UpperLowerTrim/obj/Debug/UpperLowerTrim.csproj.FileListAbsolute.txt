@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\bin\Debug\UpperLowerTrim.exe.config
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\bin\Debug\UpperLowerTrim.exe
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\bin\Debug\UpperLowerTrim.pdb
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\obj\Debug\UpperLowerTrim.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\obj\Debug\UpperLowerTrim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\obj\Debug\UpperLowerTrim.exe
+C:\Users\Administrator\source\repos\Day11\UpperLowerTrim\obj\Debug\UpperLowerTrim.pdb

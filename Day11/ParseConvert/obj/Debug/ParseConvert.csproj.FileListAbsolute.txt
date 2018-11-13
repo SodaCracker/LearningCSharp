@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day11\ParseConvert\bin\Debug\ParseConvert.exe.config
+C:\Users\Administrator\source\repos\Day11\ParseConvert\bin\Debug\ParseConvert.exe
+C:\Users\Administrator\source\repos\Day11\ParseConvert\bin\Debug\ParseConvert.pdb
+C:\Users\Administrator\source\repos\Day11\ParseConvert\obj\Debug\ParseConvert.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day11\ParseConvert\obj\Debug\ParseConvert.exe
+C:\Users\Administrator\source\repos\Day11\ParseConvert\obj\Debug\ParseConvert.pdb
