@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day12\Container\obj\Debug\Container.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day12\Container\bin\Debug\Container.exe.config
+C:\Users\Administrator\source\repos\Day12\Container\bin\Debug\Container.exe
+C:\Users\Administrator\source\repos\Day12\Container\bin\Debug\Container.pdb
+C:\Users\Administrator\source\repos\Day12\Container\obj\Debug\Container.exe
+C:\Users\Administrator\source\repos\Day12\Container\obj\Debug\Container.pdb
+C:\Users\Administrator\source\repos\Day12\Container\obj\Debug\Container.csprojAssemblyReference.cache

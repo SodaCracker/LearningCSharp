@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day12\IndexOf\bin\Debug\IndexOf.exe.config
+C:\Users\Administrator\source\repos\Day12\IndexOf\bin\Debug\IndexOf.exe
+C:\Users\Administrator\source\repos\Day12\IndexOf\bin\Debug\IndexOf.pdb
+C:\Users\Administrator\source\repos\Day12\IndexOf\obj\Debug\IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day12\IndexOf\obj\Debug\IndexOf.exe
+C:\Users\Administrator\source\repos\Day12\IndexOf\obj\Debug\IndexOf.pdb
+C:\Users\Administrator\source\repos\Day12\IndexOf\obj\Debug\IndexOf.csprojAssemblyReference.cache
