@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day13\RegexExpression\bin\Debug\RegexExpression.exe.config
+C:\Users\Administrator\source\repos\Day13\RegexExpression\bin\Debug\RegexExpression.exe
+C:\Users\Administrator\source\repos\Day13\RegexExpression\bin\Debug\RegexExpression.pdb
+C:\Users\Administrator\source\repos\Day13\RegexExpression\obj\Debug\RegexExpression.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day13\RegexExpression\obj\Debug\RegexExpression.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day13\RegexExpression\obj\Debug\RegexExpression.exe
+C:\Users\Administrator\source\repos\Day13\RegexExpression\obj\Debug\RegexExpression.pdb

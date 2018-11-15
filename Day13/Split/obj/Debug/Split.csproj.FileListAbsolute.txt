@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day13\Split\bin\Debug\Split.exe.config
+C:\Users\Administrator\source\repos\Day13\Split\bin\Debug\Split.exe
+C:\Users\Administrator\source\repos\Day13\Split\bin\Debug\Split.pdb
+C:\Users\Administrator\source\repos\Day13\Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day13\Split\obj\Debug\Split.exe
+C:\Users\Administrator\source\repos\Day13\Split\obj\Debug\Split.pdb
