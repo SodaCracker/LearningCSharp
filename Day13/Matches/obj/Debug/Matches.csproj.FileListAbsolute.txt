@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day13\Matches\bin\Debug\Matches.exe.config
+C:\Users\Administrator\source\repos\Day13\Matches\bin\Debug\Matches.exe
+C:\Users\Administrator\source\repos\Day13\Matches\bin\Debug\Matches.pdb
+C:\Users\Administrator\source\repos\Day13\Matches\obj\Debug\Matches.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day13\Matches\obj\Debug\Matches.exe
+C:\Users\Administrator\source\repos\Day13\Matches\obj\Debug\Matches.pdb

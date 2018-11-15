@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day13\Or\bin\Debug\Or.exe.config
+C:\Users\Administrator\source\repos\Day13\Or\bin\Debug\Or.exe
+C:\Users\Administrator\source\repos\Day13\Or\bin\Debug\Or.pdb
+C:\Users\Administrator\source\repos\Day13\Or\obj\Debug\Or.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day13\Or\obj\Debug\Or.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day13\Or\obj\Debug\Or.exe
+C:\Users\Administrator\source\repos\Day13\Or\obj\Debug\Or.pdb
