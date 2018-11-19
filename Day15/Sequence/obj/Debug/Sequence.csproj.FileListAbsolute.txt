@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day15\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\Administrator\source\repos\Day15\Sequence\bin\Debug\Sequence.exe
+C:\Users\Administrator\source\repos\Day15\Sequence\bin\Debug\Sequence.pdb
+C:\Users\Administrator\source\repos\Day15\Sequence\obj\Debug\Sequence.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day15\Sequence\obj\Debug\Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day15\Sequence\obj\Debug\Sequence.exe
+C:\Users\Administrator\source\repos\Day15\Sequence\obj\Debug\Sequence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day15\GarbgeCollector\bin\Debug\GarbgeCollector.exe.config
+C:\Users\Administrator\source\repos\Day15\GarbgeCollector\bin\Debug\GarbgeCollector.exe
+C:\Users\Administrator\source\repos\Day15\GarbgeCollector\bin\Debug\GarbgeCollector.pdb
+C:\Users\Administrator\source\repos\Day15\GarbgeCollector\obj\Debug\GarbgeCollector.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day15\GarbgeCollector\obj\Debug\GarbgeCollector.exe
+C:\Users\Administrator\source\repos\Day15\GarbgeCollector\obj\Debug\GarbgeCollector.pdb
