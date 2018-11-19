@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\bin\Debug\AssignmentRef.exe.config
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\bin\Debug\AssignmentRef.exe
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\bin\Debug\AssignmentRef.pdb
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\obj\Debug\AssignmentRef.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\obj\Debug\AssignmentRef.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\obj\Debug\AssignmentRef.exe
+C:\Users\Administrator\source\repos\Day15\AssignmentRef\obj\Debug\AssignmentRef.pdb
