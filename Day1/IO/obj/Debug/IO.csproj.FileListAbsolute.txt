@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Day1\Type\bin\Debug\Type.exe.config
+C:\Users\Administrator\source\repos\Day1\Type\bin\Debug\Type.exe
+C:\Users\Administrator\source\repos\Day1\Type\bin\Debug\Type.pdb
+C:\Users\Administrator\source\repos\Day1\Type\obj\Debug\IO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day1\Type\obj\Debug\Type.exe
+C:\Users\Administrator\source\repos\Day1\Type\obj\Debug\Type.pdb
